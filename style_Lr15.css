@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.page1{
+    background-color: white;
+    padding: 6% 11%;
+}
+
+.page1_flex{
+    display: inline-flex;
+}
+
+.heading{
+    font-size: 96px;
+    padding-right: 10%;
+    padding-top: 15%;
+}
+
+.page2{
+    border-color: white;
+    padding: 3% 11%;
+}
+
+.page2_flex{
+    display: inline-flex;
+}
+
+.text_p2{
+    font-size: 48px;
+    padding-top: 5%;
+    padding-left: 15%;
+}
+
+.page3{
+    background-color: white;
+    padding: 0 11%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.text_p3{
+    font-size: 48px;
+    text-align: center;
+    padding-bottom: 6%;
+}
+
+.page3_flex{
+    display: inline-flex;
+}
+
+.photo4{
+    padding-left: 6%;
+}
+
+.photo5{
+    padding-left: 6%;
+}
+
+.page4{
+    background-color: white;
+    padding: 3% 11%;
+}
+
+.page4_flex{
+    display: inline-flex;
+}
+
+.text_p4{
+    font-size: 48px;
+    padding-top: 30%;
+}
+
+.insta_vk{
+    display: inline-flex;
+    padding-top: 15%;
+}
+
+.vk{
+    padding: 5px;
+    padding-left: 40px;
+}
+
+.signature{
+    font-size: 36px;
+    text-align: right;
+}
+
+.photo6{
+    padding-left: 170px;
+}
